@@ -1,0 +1,6 @@
+C:\Users\Piyush Ahuja\OneDrive\Desktop\Scheduler\EarningScheduler.exe
+C:\Users\Piyush Ahuja\OneDrive\Desktop\Scheduler\EarningScheduler.dll
+C:\Users\Piyush Ahuja\OneDrive\Desktop\Scheduler\EarningScheduler.deps.json
+C:\Users\Piyush Ahuja\OneDrive\Desktop\Scheduler\EarningScheduler.runtimeconfig.json
+C:\Users\Piyush Ahuja\OneDrive\Desktop\Scheduler\EarningScheduler.pdb
+C:\Users\Piyush Ahuja\OneDrive\Desktop\Scheduler\Newtonsoft.Json.dll

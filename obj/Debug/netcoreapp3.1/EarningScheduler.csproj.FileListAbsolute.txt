@@ -1,0 +1,16 @@
+D:\Projects\EarningScheduler\bin\Debug\netcoreapp3.1\EarningScheduler.exe
+D:\Projects\EarningScheduler\bin\Debug\netcoreapp3.1\EarningScheduler.deps.json
+D:\Projects\EarningScheduler\bin\Debug\netcoreapp3.1\EarningScheduler.runtimeconfig.json
+D:\Projects\EarningScheduler\bin\Debug\netcoreapp3.1\EarningScheduler.runtimeconfig.dev.json
+D:\Projects\EarningScheduler\bin\Debug\netcoreapp3.1\EarningScheduler.dll
+D:\Projects\EarningScheduler\bin\Debug\netcoreapp3.1\EarningScheduler.pdb
+D:\Projects\EarningScheduler\obj\Debug\netcoreapp3.1\EarningScheduler.csproj.AssemblyReference.cache
+D:\Projects\EarningScheduler\obj\Debug\netcoreapp3.1\EarningScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EarningScheduler\obj\Debug\netcoreapp3.1\EarningScheduler.AssemblyInfoInputs.cache
+D:\Projects\EarningScheduler\obj\Debug\netcoreapp3.1\EarningScheduler.AssemblyInfo.cs
+D:\Projects\EarningScheduler\obj\Debug\netcoreapp3.1\EarningScheduler.csproj.CoreCompileInputs.cache
+D:\Projects\EarningScheduler\obj\Debug\netcoreapp3.1\EarningScheduler.dll
+D:\Projects\EarningScheduler\obj\Debug\netcoreapp3.1\EarningScheduler.pdb
+D:\Projects\EarningScheduler\obj\Debug\netcoreapp3.1\EarningScheduler.genruntimeconfig.cache
+D:\Projects\EarningScheduler\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\EarningScheduler\obj\Debug\netcoreapp3.1\EarningScheduler.csproj.CopyComplete
